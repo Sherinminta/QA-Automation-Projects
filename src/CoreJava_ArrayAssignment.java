@@ -1,5 +1,5 @@
 
-public class CoreJavaArrayAssignment {
+public class CoreJava_ArrayAssignment {
 
 	public static void main(String[] args) {
 		

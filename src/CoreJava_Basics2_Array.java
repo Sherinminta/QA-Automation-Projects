@@ -1,5 +1,5 @@
 
-public class CoreJavaBasics2 {
+public class CoreJava_Basics2_Array {
 
 	public static void main(String[] args) {
 		
