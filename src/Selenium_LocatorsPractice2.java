@@ -75,7 +75,10 @@ public class Selenium_LocatorsPractice2 {
 		driver.findElement(By.id("chkboxTwo")).click();
 		
 		//Locate submit button - css selector - regular expression
-		driver.findElement(By.cssSelector("button[class*='submit']")).click();	
+		driver.findElement(By.cssSelector("button[class*='submit']")).click();
+		
+		//Close the browser
+		driver.quit();	
 				
 	}
 
