@@ -46,10 +46,8 @@ public class Selenium_FormAssignment {
 		//Locate success message and print it
 		System.out.println(driver.findElement(By.className("alert-success")).getText());
 		
-		
-		
-
-	
+		//Close browser
+		driver.quit();	
 
 	}
 
